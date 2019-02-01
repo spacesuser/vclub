@@ -1,4 +1,4 @@
-![OTT-Player](https://raw.githubusercontent.com/betamaster2/multiplex/master/img/720/icons/2010.png)
+![OTT-Player](https://raw.githubusercontent.com/spacesuser/vclub/master/img/720/2010.png?token=AL5YxQ0T99mKx8L7OeULuWMb0NMgN9tSks5cVAkBwA%3D%3D)
 
 # Multiplex для Stalker Middleware
 

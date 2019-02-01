@@ -1,23 +1,23 @@
 {
-	"name": "Multiplex",
-	"date": "2018.03.19",
+	"name": "Phoenix Video Club",
+	"date": "2019.02.01",
 	"version": "1.0.0",
-	"description": "Multiplex - Бесплатный кинотеатр",
+	"description": "Phoenix Video Club - Видео-библиотека под любое настроение с удобным поиском и сортировкой по жанрам",
 	"author": {
-		"name": "BetaMaster"
+		"name": "spacesuser"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/betamaster2/multiplex.git"
+		"url": "https://github.com/spacesuser/vclub.git"
 	},
 	"options": [],
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "OTT-Player",
+		"name": "Phoenix Video Club",
 		"legacy": true,
-		"description": "Multiplex - Бесплатный кинотеатр",
-		"backgroundColor": "#00C8DA",
+		"description": "Phoenix Video Club",
+		"backgroundColor": "#B200DA",
 		"icons": "icons"
 	}
 }

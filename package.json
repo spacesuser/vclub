@@ -1,8 +1,8 @@
 {
-	"name": "Phoenix Video Club",
-	"date": "2019.02.01",
-	"version": "2.0.0",
-	"description": "Phoenix Video Club - Видео-библиотека под любое настроение с удобным поиском и сортировкой по жанрам",
+	"name": "Видеоклуб",
+	"date": "2019.02.07",
+	"version": "1.0.0",
+	"description": "Видеоклуб - Видео-библиотека под любое настроение с удобным поиском и сортировкой по жанрам",
 	"author": {
 		"name": "spacesuser"
 	},
@@ -14,9 +14,9 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "Phoenix Video Club",
+		"name": "Видео-библиотека под любое настроение с удобным поиском и сортировкой по жанрам",
 		"legacy": true,
-		"description": "Phoenix Video Club",
+		"description": "Приложение на основе бесплатного кинотеатра Multiplex",
 		"backgroundColor": "#B200DA",
 		"icons": "icons"
 	}
